@@ -10,7 +10,7 @@ return <div>
   <Container maxWidth="lg">
     <div style={{marginTop: '1em'}}>
     <Typography variant="h4" gutterBottom>
-        EZ
+        Attraction
     </Typography>
     <Grid container spacing={3}>
       {data.map((attraction) => (
